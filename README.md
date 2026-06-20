@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **onecanonlywish/onecanonlywish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![moe](https://count.getloli.com/@joopy?name=joopy&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
